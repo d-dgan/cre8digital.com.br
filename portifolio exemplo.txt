@@ -1,0 +1,26 @@
+                                <div class="swiper-slide">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="portfolio-info-box">
+
+                                    <div class="tilt-effect preserve-3d" data-tilt="" data-tilt-speed="2500" data-tilt-perspective="800" >
+										  <a href="https://www.tocadobarbudo.com.br"   class=ajax-effect-link>
+                                                <img width="851" height="2560" src="img/toca.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="toca.jpg 100w, img/toca.jpg 341w, img/toca.jpg 768w, img/toca.jpg 681w, img/toca.jpg 851w" sizes="(min-width: 960px) 75vw, 100vw" />                                            </a>
+                                                                            </div>
+
+                                    <div class="portfolio-detail-main">
+                                        <!-- titulo portifolio 1 -->
+                                        <a class="no-drag-ball ajax-effect-link" href="https://www.tocadobarbudo.com.br">
+                                            <h5 class="portfolio-title">
+                                                Toca Do Barbudo                                            </h5>
+                                        </a>
+                                        <!-- fim do titulo -->
+                                        <!-- categoria -->
+                                                                                        <a href="https://www.tocadobarbudo.com.br" class="no-drag-ball portfolio-category ajax-effect-link">
+                                                    Website                                                </a>
+                                                                                <!-- categoria -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
